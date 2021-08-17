@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SumitKumar30
 - 👀 I’m interested in coding, development and research
 - 🌱 I’m currently learning backend framework - Spring
-- 💞️ I’m looking to collaborate on web development projects & research
+- 💞️ I’m looking to collaborate on web development projects & research work related to malware analysis
 - 📫 You can reach me at: mail.sumitkumar30@gmail.com
 
 <!---
