@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sumit
-- 👀 I’m interested in programming, development and research work
-- 🌱 I’m currently into teaching and development
-- 💞️ I’m looking to collaborate on web/mobile app development projects & research work related to malware analysis
+- 👀 I’m interested in programming, software development, consultation and research
+- 🌱 I’m currently into teaching/training and development 
+- 💞️ I’m looking to collaborate on full stack web/mobile app development projects & research work related to malware analysis & forensics
 - 📫 You can reach me at: mail.sumitkumar30@gmail.com | Connect with me on LinkedIn at: https://www.linkedin.com/in/sumitkumar3010/
 
 <!---
