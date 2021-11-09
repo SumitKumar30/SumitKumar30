@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Sumit
-- 👀 I’m interested in programming, software development, consultation and research
-- 🌱 I’m currently into teaching/training and development 
-- 💞️ I’m looking to collaborate on full stack web/mobile app development projects & research work related to malware analysis & forensics
+- 👋 Hi there!, I’m Sumit
+- 👀 I’m an educator by profession & a tech enthusiast!
+- 🌱 I broadly teach core subjects of Computer Science, FullStack Development, Cyber Security & Digital Forensics.
 - 📫 You can reach me at: mail.sumitkumar30@gmail.com | Connect with me on LinkedIn at: https://www.linkedin.com/in/sumitkumar3010/
 
 <!---
