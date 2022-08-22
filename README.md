@@ -1,7 +1,8 @@
 - 👋 Hi there!, I’m Sumit
 - 👀 I’m an educator by profession & a tech enthusiast!
-- 🌱 I broadly teach core subjects of Computer Science, FullStack Development, Cyber Security & Digital Forensics.
-- 📫 You can reach me at: mail.sumitkumar30@gmail.com | Connect with me on LinkedIn at: https://www.linkedin.com/in/sumitkumar3010/
+- 🌱 I broadly teach Computer Science, FullStack Development, Cyber Security & Digital Forensics.
+- ✍️ I write technical articles on platforms like Medium, Baeldung, Drafts.dev etc.
+- 📫 You can reach me at: mail.sumitkumar30@gmail.com | Connect with me on LinkedIn: https://www.linkedin.com/in/sumitkumar3010/.
 
 <!---
 SumitKumar30/SumitKumar30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
