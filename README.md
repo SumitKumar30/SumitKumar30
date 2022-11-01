@@ -1,7 +1,7 @@
 - 👋 Hi there!, I’m Sumit
 - 👀 I’m an educator by profession & a tech enthusiast!
 - 🌱 I broadly teach courses related to Computer Science, FullStack Development, and Cyber Security.
-- ✍️ I write technical articles on platforms like Medium, Baeldung, Drafts.dev etc.
+- ✍️ I also write technical articles on platforms like Medium, Baeldung, Drafts.dev etc. [checkout my articles on medium: https://medium.com/@sumitkumar30]
 - 📫 You can reach me at: mail.sumitkumar30@gmail.com | Connect with me on LinkedIn: https://www.linkedin.com/in/sumitkumar3010/.
 
 <!---
